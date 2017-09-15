@@ -18,6 +18,8 @@ public class A6
 		String s2 = "";
 		int a=0;
 		
+		System.out.println("sdfsdfsdf");
+		
 		char[] ch = s1.toCharArray();
 		
 		for(int i=0 ; i<ch.length ; i++)
